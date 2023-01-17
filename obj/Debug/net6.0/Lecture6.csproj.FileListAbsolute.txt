@@ -1,0 +1,15 @@
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\bin\Debug\net6.0\Lecture6.exe
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\bin\Debug\net6.0\Lecture6.deps.json
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\bin\Debug\net6.0\Lecture6.runtimeconfig.json
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\bin\Debug\net6.0\Lecture6.dll
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\bin\Debug\net6.0\Lecture6.pdb
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.csproj.AssemblyReference.cache
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.AssemblyInfoInputs.cache
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.AssemblyInfo.cs
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.csproj.CoreCompileInputs.cache
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.dll
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\refint\Lecture6.dll
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.pdb
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\Lecture6.genruntimeconfig.cache
+C:\Users\kazar\OneDrive\Рабочий стол\Study\Lecture6\obj\Debug\net6.0\ref\Lecture6.dll
